@@ -1,0 +1,22 @@
+﻿<Window x:Class="WebGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WebGame"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="one" HorizontalAlignment="Left" Margin="143,76,0,0" VerticalAlignment="Top" Width="75" Height="75" Click="Button_Click"/>
+        <Button x:Name="two" HorizontalAlignment="Left" Margin="258,76,0,0" VerticalAlignment="Top" Width="75" Height="75" Click="Button_Click"/>
+        <Button x:Name="three" HorizontalAlignment="Left" Margin="369,76,0,0" VerticalAlignment="Top" Width="75" Height="75" Click="Button_Click"/>
+        <Button x:Name="four" HorizontalAlignment="Left" Margin="143,156,0,0" VerticalAlignment="Top" Width="75" Height="75" Click="Button_Click"/>
+        <Button x:Name="five" HorizontalAlignment="Left" Margin="258,156,0,0" VerticalAlignment="Top" Width="75" Height="75" Click="Button_Click"/>
+        <Button x:Name="six" HorizontalAlignment="Left" Margin="369,156,0,0" VerticalAlignment="Top" Width="75" Height="75" Click="Button_Click"/>
+        <Button x:Name="seven" HorizontalAlignment="Left" Margin="143,236,0,0" VerticalAlignment="Top" Width="75" Height="75" Click="Button_Click"/>
+        <Button x:Name="eight" HorizontalAlignment="Left" Margin="258,236,0,0" VerticalAlignment="Top" Width="75" Height="75" Click="Button_Click"/>
+        <Button x:Name="nine" HorizontalAlignment="Left" Margin="369,236,0,0" VerticalAlignment="Top" Width="75" Height="75" Click="Button_Click"/>
+        
+
+    </Grid>
+</Window>

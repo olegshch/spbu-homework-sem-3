@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebGame", "WebGame.csproj", "{2EED1D95-67D2-49B0-9B6E-53ECA39BF182}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebGameTests", "..\WebGameTests\WebGameTests.csproj", "{08C50AC8-12FC-449E-B410-FEE7615575C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EED1D95-67D2-49B0-9B6E-53ECA39BF182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EED1D95-67D2-49B0-9B6E-53ECA39BF182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EED1D95-67D2-49B0-9B6E-53ECA39BF182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EED1D95-67D2-49B0-9B6E-53ECA39BF182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C50AC8-12FC-449E-B410-FEE7615575C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C50AC8-12FC-449E-B410-FEE7615575C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C50AC8-12FC-449E-B410-FEE7615575C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C50AC8-12FC-449E-B410-FEE7615575C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E066475-A6B0-47F3-BFCF-CE0C8CC70260}
+	EndGlobalSection
+EndGlobal
